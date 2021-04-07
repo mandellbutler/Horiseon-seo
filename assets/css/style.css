@@ -85,7 +85,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Renamed class amd consolidated css code */
+
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,7 +96,18 @@ aside h3 {
     text-align: center;
 }
 
-/* Renamed class amd consolidated css code */
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Renamed class and consolidated css code */
 .benefits img {
     display: block;
     margin: 10px auto;
