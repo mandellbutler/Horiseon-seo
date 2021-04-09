@@ -1,4 +1,4 @@
-# HOMEWORK 1: HORISEON SEO Code Refactor
+#HORISEON SEO Code Refactor
 
 ## User Story
 
